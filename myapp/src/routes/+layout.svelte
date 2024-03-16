@@ -8,7 +8,7 @@
         <div class="container-fluid">
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav mx-auto">
-                <a class="nav-link" href="/dance">Owl & Fox</a>
+                <a class="nav-link" href="/dance">Dance?</a>
                 <a class="nav-link" aria-current="page" href="/">Home</a>
                 <a class="nav-link" href="/">Bureaucracy</a>
                 <a class="nav-link" href="/">Differential Equations</a>
@@ -30,5 +30,6 @@
         background-repeat: no-repeat;
         width: 100vw;
         height: 100vh;
+        z-index: 1;
     }
 </style>
